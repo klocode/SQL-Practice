@@ -11,7 +11,7 @@ What are the 5 most expensive items?
   >SELECT title, price FROM items ORDER BY price DESC LIMIT 5;
 
   >RESULT:
-  
+
   >Small Cotton Gloves|9984
 
   >Small Wooden Computer|9859
@@ -93,3 +93,6 @@ What were the top 3 highest grossing categories?
 Music, Sports & Clothing|525240
 Books|522272
 Beauty, Toys & Sports|449496
+
+Epic Mode
+![Picture](https://cloud.githubusercontent.com/assets/25326353/22956569/e1da31e6-f2f0-11e6-8876-f38ff6c8e476.png)
